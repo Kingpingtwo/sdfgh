@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+}
+.hed {
+  margin: 20px 0;
+}
+.log {
+  width: 85%;
+  margin: auto;
+}
+.img {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.logo {
+  text-transform: uppercase;
+  font-size: 48px;
+  font-weight: 700;
+}
+.main {
+  background-image: url(download.png);
+  height: 800px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.tit {
+  text-align: center;
+  padding: 25px;
+  margin-left: 290px;
+  margin-right: 290px;
+  color: white;
+  display: flex;
+  font-size: 110px;
+  border-bottom: 2px solid blue;
+  margin-bottom: 10px;
+}
+.av {
+  text-decoration: none;
+  border: 1px solid blue;
+  color: white;
+  padding: 6px 6px;
+}
+.a {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
